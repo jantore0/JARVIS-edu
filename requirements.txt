@@ -1,0 +1,13 @@
+numpy
+sounddevice
+faster-whisper
+scipy
+edge-tts
+pygame
+groq
+pvporcupine
+torch
+silero-vad-utils  # for the Silero VAD utilities loaded via load_silero_vad
+flask
+psutil
+flask-cors  # optional, but imported with try/except
